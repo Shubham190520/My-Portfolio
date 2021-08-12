@@ -157,7 +157,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("Images/images.jpg") no-repeat center;
+    background: url("images/images.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 31.25rem;
@@ -579,7 +579,7 @@ section .title::after{
   display: flex;
   align-items: center;
 }
-.contact.right form .button-area button{
+.contact .right form .button-area button{
   color: #fff;
   display: block;
   width: 10rem!important;
@@ -594,7 +594,7 @@ section .title::after{
   border: 0.125rem solid #03BFCB;
   transition: all 0.3s ease;
 }
-.contact.right form .button-area button:hover{
+.contact .right form .button-area button:hover{
   color: #03BFCB;
   background: none;
 }
